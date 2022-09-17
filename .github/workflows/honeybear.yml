@@ -1,4 +1,4 @@
-name: weixin
+name: honeybear
 on:
   workflow_dispatch:
   schedule: 
